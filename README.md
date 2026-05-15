@@ -3,12 +3,9 @@
 
 #### Research-driven Python & Data Science enthusiast | Exploring Machine Learning
 🌍 **Connect with me**
+[LinkedIn](https://www.linkedin.com/in/lilianasepulveda/)
+   
 
-<a href="https://www.linkedin.com/in/lilianasepulveda/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
- </a>
-
- 
 ---
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
