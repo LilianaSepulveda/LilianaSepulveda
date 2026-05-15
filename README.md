@@ -1,20 +1,23 @@
 
-<h2> Hi there 👋 I'm Liliana Sepúlveda ✨</h2>
+<h2> Hi,👋 I'm Liliana Sepúlveda ✨</h2>
 
-#### Python • Data Science • Statistical Modeling • Exploring Machine Learning
+#### Research-driven Python & Data Science enthusiast | Exploring Machine Learning
+🌍 **Connect with me**
 
+<a href="https://www.linkedin.com/in/lilianasepulveda/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+ </a>
+
+ 
 ---
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm building a strong technical path focused on **Python, data science, and analytical problem solving**.
+I'm building a strong technical path focused on **Python, data science, and analytical problem-solving**.
 
-My journey combines software foundations, statistical thinking, and a research-driven mindset.
+My journey combines **strong software foundations**, statistical thinking, and a research-driven mindset.
 
-I'm currently strengthening my skills step by step while building toward an **international career in tech**.
-     
-🌍 **You can find me here:**
-[Linkedin](https://www.linkedin.com/in/lilianasepulveda/)
+I'm currently strengthening my skills step by step while working toward an **international career in tech**.
 
 ⚡ Passionate about science, research, traveling ✈️ and, of course, cats 😻
 
@@ -23,9 +26,9 @@ I'm currently strengthening my skills step by step while building toward an **in
 <h3> 🎯 &nbsp;Current Focus </h3>
 
 - Strengthening Python foundations
-- Learning SQL and data workflows
-- Developing analytical thinking
-- Building portfolio projects
+- Learning SQL and data analysis workflows
+- Developing statistical and analytical thinking
+- Building hands-on portfolio projects
 
 
 ---
@@ -66,5 +69,8 @@ I'm currently strengthening my skills step by step while building toward an **in
 
 ---
 
+<div>
+   <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LilianaSepulveda&layout=compact&theme=material-palenight&langs_count=10" width="49%" />
+</div>
 
-[![Liliana GitHub stats](https://github-readme-stats.vercel.app/api?username=LilianaSepulveda)](https://github.com/anuraghazra/github-readme-stats)
+
