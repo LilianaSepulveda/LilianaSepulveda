@@ -2,8 +2,8 @@
 <h2> Hi,👋 I'm Liliana Sepúlveda ✨</h2>
 
 #### Research-driven Python & Data Science enthusiast | Exploring Machine Learning
-🌍 **Connect with me**
-[LinkedIn](https://www.linkedin.com/in/lilianasepulveda/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lilianasepulveda/)
    
 
 ---
